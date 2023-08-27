@@ -2,10 +2,12 @@ import turtle
 import random
 #Goto start position
 Player_one=turtle.Turtle()
+Player_one.shape("turtle")
 Player_one.color("red")
 Player_one.penup()
 Player_one.goto(-300,0)
 Player_two=turtle.Turtle()
+Pl.shape("turtle")
 Player_two.penup()
 Player_two.color("green")
 Player_two.goto(-300,-200)

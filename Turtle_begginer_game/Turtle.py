@@ -103,6 +103,7 @@ def hexagone(x, y):
 def rainbow(x, y):
     colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow']
     tur = turtle.Turtle()
+    turtle.title("Spiral Rainbow")
     tur.shape("turtle")
     tur.goto(x, y)
     # tur.penup()
