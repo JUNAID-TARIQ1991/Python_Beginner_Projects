@@ -27,7 +27,7 @@ for row in row:
 arr = [[i for i in range(4)] for j in range(3)]
 print(arr)
 
-
+# SOLUTION
 # Python 3 program to find the maximum
 # sum of hour glass in a Matrix
 
